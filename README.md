@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Elyza Santos </h1>
+<h3 align="center"> Computer Science Student | Technical Enthusiast  </h3>  
 
-<!--
-**elyz0/elyz0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<div align="center">
 
-Here are some ideas to get you started:
+<a href="https://github.com/Elyz0/">
+  <img src="https://github-readme-stats.vercel.app/api?username=Elyz0&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=AE00FF&icon_color=AE00FF&text_color=D3D3D3&bg_color=0,000000,300047" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Elyz0&show_icons=true&locale=en&layout=compact&line_height=20&title_color=AE00FF&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,300047" width="375"  alt="0xabdulkhalid"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</a>
+</div>   
+
+##
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31wi36lubzmwrrvpbbmhxflmefvu?si=c79c2593f09646f1)
+
