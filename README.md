@@ -17,5 +17,8 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31wi36lubzmwrrvpbbmhxflmefvu?si=c79c2593f09646f1)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31wi36lubzmwrrvpbbmhxflmefvu?si=c79c2593f09646f1) 
+
+## 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//elyza-santos-91731a257/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@SEUUSERNAME/) [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/lzxs) 
 
